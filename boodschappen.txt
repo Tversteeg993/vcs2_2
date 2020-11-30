@@ -5,3 +5,9 @@ Pizza:
 - Parmazaanse kaas
 - Normale kaas
 - Tomatensaus
+
+Ontbijt:
+- Brood
+- Boter
+- Eieren
+- Sinaasappelsap
